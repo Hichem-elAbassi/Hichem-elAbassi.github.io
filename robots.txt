@@ -1,0 +1,3 @@
+
+User-agent: *
+Sitemap: mean-stack.me/sitemap.xml
