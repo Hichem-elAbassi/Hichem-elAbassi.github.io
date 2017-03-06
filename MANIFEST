@@ -1,0 +1,13 @@
+This zip file contains optimized resources for http://mean-stack.me/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/enterprise-c1.css: http://mean-stack.me/css/enterprise-c1.css
+js/debouncer.js: http://mean-stack.me/js/debouncer.js
+js/enterprise.js: http://mean-stack.me/js/enterprise.js
+js/color-switch.js: http://mean-stack.me/js/color-switch.js
+image/photo-hesham-abbassi.jpg: http://mean-stack.me/img/photo-hesham-abbassi.jpg
